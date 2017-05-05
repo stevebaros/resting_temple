@@ -486,3 +486,10 @@ h6,
   color: #3d8eb9;
   font-size: 16px;
 }
+#msg-box3-9 .mbr-section-title,
+#msg-box3-9 p {
+  color: #000;
+}
+#form1-b .form-control-label {
+  color: #232323;
+}
